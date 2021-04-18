@@ -1,0 +1,3 @@
+/home/daria/programming/openGL/CG_Task1_RogueLike/gitAndSubmittedWork_myRogueLikeGame/lovelyCG/Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daria/programming/openGL/CG_Task1_RogueLike/gitAndSubmittedWork_myRogueLikeGame/lovelyCG/Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daria/programming/openGL/CG_Task1_RogueLike/gitAndSubmittedWork_myRogueLikeGame/lovelyCG/Game/cmake-build-debug/CMakeFiles/main.dir
