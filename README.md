@@ -2,6 +2,8 @@
 
 ### Простая 2D-игра в жанре roguelike.
 
+![me](https://github.com/semenovad/RoguelikeGame/blob/main/game.gif)
+
 **Реализовано:**
 - Лабиринт состоит из 2-ух уровней;
 - Чтение карты лабиринта из текстового файла;
